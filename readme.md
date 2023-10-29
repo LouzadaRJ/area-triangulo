@@ -1,0 +1,1 @@
+aplicação js simples, para cálculo da área do triangulo
